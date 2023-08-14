@@ -40,7 +40,7 @@
                 &kp TILDE  &kp EXCL  &kp AT   &kp HASH  &kp DLLR  &kp PRCNT                             &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR   &kp RPAR        &kp DQT
                 &trans     &kp F1    &kp F2   &kp F3    &kp F4    &kp LBRC                              &kp RBRC   &kp HOME   &kp UP     &kp END    &kp PG_UP       &kp DEL
                 &trans     &kp F5    &kp F6   &kp F7    &kp F8    &kp LPAR          &kp C_MUTE          &kp RPAR   &kp LEFT   &kp DOWN   &kp RIGHT  &kp PG_DN       &kp INS
-                &trans     &kp F9    &kp F10  &kp F11   &kp F12   &kp LBKT                              &kp RBKT   &kp K_APP  &kp PRCNT  &kp SLCK   &kp PAUSE_BREAK &trans
+                &trans     &kp F9    &kp F10  &kp F11   &kp F12   &kp LBKT                              &kp RBKT   &kp K_APP  &kp PSCRN  &kp SLCK   &kp PAUSE_BREAK &trans
                                               &trans    &none     &kp TAB   &kp C_VOL_DN  &kp C_VOL_UP  &kp TAB    &none      &trans
                 >;
         };
