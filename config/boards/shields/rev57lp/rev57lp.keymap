@@ -13,6 +13,15 @@
 #define FNAV    1
 
 / {
+    combos {
+        compatible = "zmk,combos";
+        combo_BOOT {
+            timeout-ms = <50>;
+            key-positions = <5 6 7 8>;
+            bindings = <&bootloader>;
+        };
+    }
+
     keymap {
         compatible = "zmk,keymap";
 
