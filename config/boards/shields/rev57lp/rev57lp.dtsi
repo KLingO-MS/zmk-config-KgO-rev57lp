@@ -1,11 +1,14 @@
 #include <physical_layouts.dtsi>
 
-&led_strip {
-    chain-length = 9;
-};
+
+// I have 1st revision without RGB underglow
+
+// &led_strip {
+//     chain-length = 9;
+// };
 
 / {
-    default_layout: physical_layout0 {
+    physical_layout: physical_layout_0 {
         compatible = "zmk,physical-layout";
         display-name = "default-layout";
 
